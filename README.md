@@ -3,7 +3,7 @@
 <h1 align="center">Hi There 👋, I'm Putra Arizona</h1>
 <h3 align="center">A passionate front-end developer with a strong focus on user experience and clean, maintainable code. My portfolio showcases my work on various projects.</h3>
 
-- 🔭 I’m currently working on **Travelgo Web Application**
+- 🔭 I’m currently working on **SimpleStay**
 
 - 🌱 I’m currently learning **Kotlin**
 
